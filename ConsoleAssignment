@@ -1,0 +1,5 @@
+
+1.history | grep cat | wc -l
+2.cat /usr/share/dict/words | grep ^a | wc -l
+3.cat /usr/share/dict/words | grep ^a | grep \s$
+4.curl www.lightouselabs/index.html
